@@ -8,11 +8,10 @@ If pressed in the <b>Scan and Pay</b> it will move to the next screen,i.e, <b>AC
 
 ## Demo ##
 
-<hr>
 <a href="https://github.com/Arijit123Muk/PAY-APP-UI-/tree/master/Screenshot">
          <img alt="Qries" src="https://github.com/Arijit123Muk/PAY-APP-UI-/blob/master/Screenshot/2.jpg"
          width=300" height="500">
-<hr>
+
                                 
 <a href="https://github.com/Arijit123Muk/PAY-APP-UI-/tree/master/Screenshot">
          <img alt="Qries" src="https://github.com/Arijit123Muk/PAY-APP-UI-/blob/master/Screenshot/1.jpg"
